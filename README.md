@@ -6,6 +6,8 @@
 
 **Original File:** https://drive.google.com/file/d/1qjODkQLbDYsurpsy-J7HGWEmvKadtvEA/view?usp=sharing
 
+- ***Software Used: Adobe Photoshop, Abobe InDesign, Abobe Illustrator***
+
 ---
 1. **Project Overview:**
 CHEMZONE is a student-driven magazine created for the Indian Institute for Chemical Engineers (IIChE) BMSCE Student Chapter. The primary theme of the magazine is Sustainability, addressing various environmental and technological advancements in the field of chemical engineering. The magazine serves as a platform for students and faculty to share knowledge, showcase research, and celebrate the achievements of the department.
