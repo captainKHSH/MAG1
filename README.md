@@ -29,7 +29,7 @@ As the Editor of CHEMZONE, the responsibilities included:
 - Timely Publication: Adhering to the publication schedule to ensure that the magazine was released on time.
 
 4. **Article Contribution:**
-- Title: Neural Networks and Chemical Reactions: A Match Made in Science
+- *Title: Neural Networks and Chemical Reactions: A Match Made in Science*
 - Summary:
 
 This article explores the intersection of neural networks and chemical engineering, demonstrating how these seemingly unrelated fields share common goals of optimization and system analysis. It highlights the potential of neural networks in improving chemical processes, such as those in the pharmaceutical industry, where even minor optimizations can lead to cost savings and improved outcomes.
